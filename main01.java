@@ -37,6 +37,7 @@ class Item {
     }
 
     public int getNumber() {
+        
         return this.number;
     }
 
