@@ -34,7 +34,6 @@ import java.util.*;
 
   int c = c_sel.nextInt(3);
 
-
   System.out.print("select\n 0.gu,1.choki,2.per==>");
   int p_sel;
   p_sel = Integer.parseInt(s.next());
